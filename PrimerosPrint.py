@@ -1,4 +1,4 @@
-print("====================BIENVENIDO AL CINE DE MISIÓN TIC====================")
+print("====================BIENVENIDO AL CINE DE MISIÓN TIC ====================")
 nombre = input("INGRESA TU NOMBRE: ")
 edad = int(input("QUE EDAD TIENES: "))
 

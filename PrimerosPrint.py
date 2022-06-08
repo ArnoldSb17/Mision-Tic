@@ -18,4 +18,4 @@ elif edad < 18 and edad > 0:
     elif estaAcompañado == "no":
         print("Hola pequeño" + nombre.capitalize() +" Usted no cumple el minimo de edad y no esta acompañado por un adulto.\nNo puede pasar a ver la pelicula.\n")
 else:
-    print("\nHola "+ nombre + "\nSi sabes que no puedes tener una edad negativa. \n"+ str(edad) + " esa no es tu edad. \n" )
+    print("\nHola!! "+ nombre + "\nSi sabes que no puedes tener una edad negativa. \n"+ str(edad) + " esa no es tu edad. \n" )
